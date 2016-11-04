@@ -1,0 +1,23 @@
+
+
+
+/* TEAM */
+
+Owner and Developer: Maxim Konoval
+Location: Kyiv, Ukraine
+
+
+
+/* THANKS */
+
+Artem Shykov, Brad Schiff and htmlAcademy
+
+
+
+/* SITE */
+
+Last update: 2016/11/04
+Created: 2016/10/30
+Standards: HTML5, CSS3, ES6
+Components: Modernizr, Smooth-Scroll, Picturefill, Formspree
+Language: En
