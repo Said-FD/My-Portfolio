@@ -2194,7 +2194,7 @@ smoothScroll.init();
 
 // Modal Form Events
 var modal = document.querySelector('.modal');
-var modalToggle = Array.from(document.querySelectorAll('.modal-toggler'), 0);
+var modalToggle = Array.from(document.querySelectorAll('.modal-toggler'));
 
 function clickEvent(item) {
     item.addEventListener('click', function() {
