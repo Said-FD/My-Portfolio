@@ -10,14 +10,22 @@ Location: Kyiv, Ukraine
 
 /* THANKS */
 
-Artem Shykov, Brad Schiff and htmlAcademy
+Artem Shykov - for some designs and ideas
+Vadim Makeev and WSD - for fresh news and techniques in front-end development
+Brad Schiff - for great online courses and tutorials
+htmlAcademy - for best online course on lang="ru"
 
 
 
 /* SITE */
 
-Last update: 2016/11/05
+Last update: 2016/12/21
 Created: 2016/10/30
-Standards: HTML5, CSS3, ES6
-Components: Modernizr, Smooth-Scroll, Picturefill, Formspree
 Language: En
+Standards: HTML5, CSS3, ES6
+Components: 
+	- Modernizr for Flexbox Fallback
+  - Picturefill for Picture Element Fallback
+  - Smooth-Scroll for Anchor Scrolling
+  - Formspree for Sending Emails from Modal Form
+  - Service Worker API for Offline Access (only thru https)
