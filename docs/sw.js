@@ -1,12 +1,12 @@
-var cacheName = 'v6';
+var cacheName = 'v0.2';
 var cacheFiles = [
 	'./',
 	'./index.html',
+	'./404.html',
 	'./manifest.json',
+	'./humans.txt',
 	'./scripts/script.min.js',
 	// './scripts/offline-google-analytics-import.js',
-	'./humans.txt',
-	'./404.html',
 	'./images/bg_1.jpg',
 	'./images/icons/sprite.png',
 	'./images/icons/envelope-white-50.png',

@@ -3,9 +3,9 @@
 	"name": "Max Konoval | Portfolio",
 	"description": "Front-End Development and Engineering of the Web Sites",
 	"short_name": "Portfolio",
-	"start_url": "/index.html",
+	"start_url": "/",
 	"scope": "/",
-	"display": "browser",
+	"display": "fullscreen",
 	"icons": [
 		{
 			"src": "/favicons/favicon-48x48.png",
