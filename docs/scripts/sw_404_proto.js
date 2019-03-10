@@ -8,7 +8,7 @@ self.addEventListener('fetch', function(event) {
 			}
 			return response;
 		}).catch(function() {
-			return new Response('Crush message goes here');
+			return new Response('Crushed');
 		})
 	);
 });
