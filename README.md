@@ -1,5 +1,5 @@
 # My-Portfolio
-Some of my works with links to CodePen and repositories.
-<p data-height="265" data-theme-id="0" data-slug-hash="BLGwmB" data-default-tab="html,result" data-user="Said_FD" data-embed-version="2" data-pen-title="My Portfolio" class="codepen">See the Pen <a href="http://codepen.io/Said_FD/pen/BLGwmB/">My Portfolio</a> by Maxim Konoval (<a href="http://codepen.io/Said_FD">@Said_FD</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
-Project location: https://webdevs.co.ua
+Some of my works with links to CodePen and repositories.
+
+Project location: https://webdevs.co.ua.
