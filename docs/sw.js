@@ -1,4 +1,4 @@
-var cacheName = 'v0.4';
+var cacheName = 'v0.7';
 var cacheFiles = [
 	'./',
 	'./index.html',
@@ -7,6 +7,7 @@ var cacheFiles = [
 	'./humans.txt',
 	'./scripts/script.min.js',
 	// './scripts/offline-google-analytics-import.js',
+	'./favicons/favicon-32x32.png',
 	'./images/bg-2.jpg',
 	'./images/icons/sprite.png',
 	'./images/icons/envelope-white-50.png',
